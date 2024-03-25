@@ -1,5 +1,6 @@
 Name: Omar Mohammad
 ID: 40162541
+Repo Link: https://github.com/OmarTheProgrammerr/SOEN363_A2_SQL
 
 Note: I'm using PostgreSQL for writing the SQL quries.
 
